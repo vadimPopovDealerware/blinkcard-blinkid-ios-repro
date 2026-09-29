@@ -12,10 +12,9 @@ packages:
   blinkcard_flutter:
     dependency: "direct main"
     description:
-      name: blinkcard_flutter
-      sha256: "37155c8eeed9940600ec9db3c0a8cee01f82184d74b21b2c544f2f6c74aff0ef"
-      url: "https://pub.dev"
-    source: hosted
+      path: blinkcard_flutter_patched
+      relative: true
+    source: path
     version: "3000.0.0"
   blinkid_flutter:
     dependency: "direct main"

@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/BlinkCard/blinkcard-ios.git",
       "state" : {
-        "revision" : "e6434fb713f4730796d6235ed6d3f5dbca5961e2",
-        "version" : "3000.0.0"
+        "revision" : "7655360d847005633188d19d3cf98c7b1f389df8",
+        "version" : "3000.0.1"
       }
     },
     {

@@ -35,7 +35,10 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   # Both Microblink SDKs in one app, straight from pub.dev.
   blinkid_flutter: 8000.0.0
-  blinkcard_flutter: 3000.0.0
+  # blinkcard_flutter 3000.0.0 with one change: ios/blinkcard_flutter/Package.swift
+  # pins blinkcard-ios 3000.0.1 instead of 3000.0.0.
+  blinkcard_flutter:
+    path: ./blinkcard_flutter_patched
   cupertino_icons: ^1.0.8
 
 dev_dependencies:
