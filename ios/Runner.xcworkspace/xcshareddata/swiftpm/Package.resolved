@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "blinkcard-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/BlinkCard/blinkcard-ios.git",
+      "state" : {
+        "revision" : "e6434fb713f4730796d6235ed6d3f5dbca5961e2",
+        "version" : "3000.0.0"
+      }
+    },
+    {
+      "identity" : "blinkid-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/microblink/blinkid-ios.git",
+      "state" : {
+        "revision" : "95428e611541396539994055ee07a32c41d7ce01",
+        "version" : "8000.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
